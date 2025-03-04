@@ -150,5 +150,13 @@ Since this is a personal project, certain limitations exist:
 
 Despite hardware constraints, this project tries to  demonstrates a production-style architecture for high-performance financial transaction processing.
 
+## References & Learning Resources
+
+This project was referenced by the concepts and techniques demonstrated in the following resource:
+
+- **YouTube Tutorial:** [1.2 Billion Records Per Hour High Performance Kafka and Spark - End to End Data Engineering Project](https://www.youtube.com/watch?v=d6AFh31fO7Y&t=7421s)
+
+This implementation is a customized version based on my learning from this tutorial, adapted to fit my own system constraints and architecture.
+
 ---
 
